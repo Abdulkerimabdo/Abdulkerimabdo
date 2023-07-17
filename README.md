@@ -1,6 +1,3 @@
 ### Hi I'm Abdulkerim a Data Analyst With a Diverse Skillset in Computer Science And Accounting.
 
-- 🔭 I’m anallitically curious with proficiency working with phython, ibm_db and looker
-- 🌱 I’m currently learning SQL Seeking Employment.
-- 👯 I enjoy analyzing and vizualizing data to make better and informed decisons
-- 🤔 I’m passionate about learning and building that fix problems.
+I am a recent graduate with a Bachelor of Science in Computer Science and a Bachelor of Art in Accounting & Finance Degree Holder and a passion for data analysis, data science. I have experience in working with various data sets, tools and techniques to solve real-world problems and generate insights. I am proficient in Python, R, SQL, Excel, Access, Hadoop, Tableau, Power BI and other data analysis and visualization software. I also have a strong background in accounting and finance, with knowledge of financial reporting, analysis, reconciliation, auditing and taxation. I am eager to learn new skills and apply my knowledge to challenging projects that can make a positive impact.
